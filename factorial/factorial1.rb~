@@ -1,8 +1,0 @@
-fact=1
-puts "enter a number"
-n=gets.to_i
-c=1
-for c in n
-fact=fact*c
-end
-puts "factorial of #{n} is #{fact}"
