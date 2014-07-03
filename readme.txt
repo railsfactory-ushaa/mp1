@@ -13,9 +13,6 @@ Decimal to binary conversion
 ncR and nPr
 Add n numbers
 Swapping
-
-
-programs remaining:
 Reverse number
 Palindrome number
 Print Pattern
@@ -31,6 +28,10 @@ Maximum element in array
 Minimum element in array
 Linear search
 Binary search
+
+
+programs remaining:
+
 Reverse array
 Insert element in array
 Delete element from array
