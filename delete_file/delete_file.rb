@@ -3,6 +3,6 @@ file_name = gets.chomp
  
 status = File.delete(file_name)
   
-  if( status == 0 )
-      puts "#{file_name} file deleted successfully."
-  end
+if status == 0
+  puts "#{file_name} file deleted successfully."
+end
