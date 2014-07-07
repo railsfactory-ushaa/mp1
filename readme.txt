@@ -1,4 +1,5 @@
-programs Completed: 
+programs Completed:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 1.Hello world
 2.Print Integer
 3.Addition
@@ -43,28 +44,28 @@ programs Completed:
 42.Concatenate strings
 43.Reverse string
 44.find palindrome
+45.Change case
+45.Reverse array
+46.Delete file
+47.Swap strings 
+48.Read file
+49.Copy files
+50.Random numbers
+51.Add complex numbers
+52.Print date
+53.Get IP address
+54.List files in a directory
 
-programs remaining:
-
-Addition using pointers
-Reverse array
-Merge arrays
-Delete vowels
-C substring
-Sort a string
-Remove spaces
-Change case
-Swap strings
-Character's frequency
-Anagrams
-Read file
-Copy files
-Merge two files
-List files in a directory
-Delete file
-Random numbers
-Add complex numbers
-Print date
-Get IP address
-Shutdown computer
+programs remaining:          Reason
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Addition using pointers     =>couldn't do because no pointer concept in ruby
+Merge arrays                =>infinite for loop 
+Delete vowels               =>representation for null character is not there  in ruby
+C substring                 =>pointers
+Sort a string               =>pointers
+Remove spaces               =>representation for null character is not there in ruby
+character's frequency       =>pointers
+Anagrams                    =>representation for null character is not there in ruby
+Merge two files             =>no file operation in ruby to merge 2 files
+Shutdown computer           =>couldn't find any methods to shutdown ubuntu system
 
