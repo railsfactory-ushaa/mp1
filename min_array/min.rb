@@ -1,4 +1,4 @@
-location=1
+location = 1
 array = Array.new(100)
 printf "Enter the number of elements in array\n"
 size = gets.to_i
@@ -8,12 +8,10 @@ for c in 0...size
 end 
 minimum = array[0]
 for c in 0...size
-  
-    if array[c] < minimum
-    
-       minimum  = array[c]
-       location = c+1
-    end
+  if array[c] < minimum
+    minimum  = array[c]
+    location = c+1
+  end
 end
 printf "Minimum element is present at location #{location},  and it's value is #{minimum}\n"
 
