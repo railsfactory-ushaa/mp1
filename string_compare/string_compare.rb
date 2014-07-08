@@ -5,7 +5,7 @@ a = gets.chomp
 printf("Enter the second string\n");
 b = gets.chomp
  
-if (a <=>b) == 0 
+if a <=>b  == 0 
    printf "Entered strings are equal.\n"
 else
     printf "Entered strings are not equal.\n"
