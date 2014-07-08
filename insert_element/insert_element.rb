@@ -12,7 +12,7 @@ position = gets.to_i
 printf "Enter the value to insert\n"
 value = gets.to_i 
 for c in (n - 1)..(position - 1)
-   array[c +1 ] = array[c]
+   array[c + 1 ] = array[c]
 end
 
 array[position - 1] = value
