@@ -6,7 +6,7 @@ b = a
 a = b.reverse
 if (a <=> b) == 0
       printf "Entered string is a palindrome.\n"
-  elsif 
+elsif (a <=>b) != 0 
       printf "Entered string is not a palindrome.\n"
 end
 
