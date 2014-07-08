@@ -55,6 +55,7 @@ programs Completed:
 52.Print date
 53.Get IP address
 54.List files in a directory
+55.Shutdown computer 
 
 programs remaining:          Reason
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -67,5 +68,5 @@ Remove spaces               =>representation for null character is not there in 
 character's frequency       =>pointers
 Anagrams                    =>representation for null character is not there in ruby
 Merge two files             =>no file operation in ruby to merge 2 files
-Shutdown computer           =>couldn't find any methods to shutdown ubuntu system
+          
 
