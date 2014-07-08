@@ -12,7 +12,7 @@ for  i in 0..n
     printf " "
   end
   for c in 0..i
-    printf "#{factorial(i)/(factorial(c)*factorial(i-c))} "
+    printf "#{factorial(i) / (factorial(c) * factorial(i - c))} "
     # printf "\n" 
   end
 puts "\n"
