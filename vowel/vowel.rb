@@ -1,7 +1,8 @@
 puts "enter character"
-ch= gets.chomp
-if ( ch=="a"||ch=="e"||ch=="i"||ch=="o"||ch=="u")
-puts"entered character is vowel"
+ch1 = gets.chomp
+ch = ch1.downcase
+if  ch == "a" || ch == "e" || ch == "i" || ch == "o" || ch == "u"
+  puts"entered character is vowel"
 else
-puts "entered character is consonant"
+  puts "entered character is consonant"
 end
