@@ -6,7 +6,7 @@ for row in 1..n
     printf " "
   end
   temp = temp-1
-  for i in 1..(2*row-1)
+  for i in 1..(2 * row - 1)
     printf "*"
   end
   printf "\n"
