@@ -56,11 +56,11 @@ programs Completed:
 53.Get IP address
 54.List files in a directory
 55.Shutdown computer 
+56.merge arrays
 
 programs remaining:          Reason
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Addition using pointers     =>couldn't do because no pointer concept in ruby
-Merge arrays                =>infinite for loop 
 Delete vowels               =>representation for null character is not there  in ruby
 C substring                 =>pointers
 Sort a string               =>pointers
