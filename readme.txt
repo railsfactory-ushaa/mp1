@@ -57,11 +57,11 @@ programs Completed:
 54.List files in a directory
 55.Shutdown computer 
 56.merge arrays
+57.Delete vowels    
 
 programs remaining:          Reason
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Addition using pointers     =>couldn't do because no pointer concept in ruby
-Delete vowels               =>representation for null character is not there  in ruby
 C substring                 =>pointers
 Sort a string               =>pointers
 Remove spaces               =>representation for null character is not there in ruby
