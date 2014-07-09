@@ -41,6 +41,6 @@ for i in 0...a
     end
 end
  s = t     
-puts " The string after deleting vowels is "
+puts "The string after deleting vowels is "
 puts s
  
